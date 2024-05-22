@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Orka Dasgupta</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Yo 👋, This is Orka Dasgupta</h1>
+<h3 align="center">Frontend Developer</h3>
 <img src="https://64.media.tumblr.com/17329a19e9f61e48a59176a6a5756645/tumblr_ovzc38zDlz1wsoyd4o1_500.gifv" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orka-kun&label=Profile%20views&color=0e75b6&style=flat" alt="orka-kun" /> </p>
