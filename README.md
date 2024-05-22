@@ -1,6 +1,6 @@
 <h1 align="center">Yo 👋, This is Orka Dasgupta</h1>
 <h3 align="center">Frontend Developer</h3>
-<iframe src="https://gifer.com/embed/AEWu" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*fUhClgI4aRBdFrAFFGx5Kw.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orka-kun&label=Profile%20views&color=0e75b6&style=flat" alt="orka-kun" /> </p>
 
