@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, This is Orka Dasgupta</h1>
 <h3 align="center">Frontend Developer</h3>
 <!-- <img src="https://wallpapers-clan.com/wp-content/uploads/2022/12/hunter-%C3%97-hunter-killua-gif-pfp-1.gif" alt=""> -->
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://wallpapers-clan.com/wp-content/uploads/2022/12/hunter-%C3%97-hunter-killua-gif-pfp-1.gif" alt="">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orka-kun&label=Profile%20views&color=0e75b6&style=flat" alt="orka-kun" /> </p>
