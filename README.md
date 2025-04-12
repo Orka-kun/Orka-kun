@@ -1,4 +1,4 @@
-<h1 align="center">Yo 👋, This is Orka Dasgupta</h1>
+<h1 align="center">Greetings! 👋, This is Orka Dasgupta</h1>
 <h3 align="center">Front-End Developer</h3>
 <div align="center">
   <img src="https://wallpapers-clan.com/wp-content/uploads/2022/12/hunter-%C3%97-hunter-killua-gif-pfp-1.gif" alt="">
