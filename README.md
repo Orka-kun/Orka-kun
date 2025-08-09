@@ -11,7 +11,10 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning :
+                            **1) MERN Stack**
+                            **2) Solving problems on Codeforces & Leetcode**
+                            **3) Actively focused on DSA & OOP**
 
 - 📫 How to reach me **orkadas@gmail.com**
 
